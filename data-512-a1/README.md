@@ -5,9 +5,13 @@ This notebook(data-512-a1.ipynb) contains instructions to produce a visualiztion
 
 The pageviews counts were filtered to only show traffic from users.
 
-The API set up code in the notebook is borrowed with permission from a notebook(https://public.paws.wmcloud.org/User:Jtmorgan/data512_a1_example.ipynb) by Brandon Martin-Anderson (bmander@uw.edu)
+The API set up code in the notebook is borrowed with permission from a notebook: (https://public.paws.wmcloud.org/User:Jtmorgan/data512_a1_example.ipynb) by Brandon Martin-Anderson (bmander@uw.edu)
 
 All other work is original
+
+The CSV and JSON files exist to help with repoducabliity; the notebook will generate these files when run.
+
+There is a png of the visualization to show expected output of the notebook.
 
 Send questions about the notebook to jm888@uw.edu
 
