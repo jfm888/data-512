@@ -5,9 +5,13 @@ This notebook(data-512-a1.ipynb) contains instructions to produce a visualiztion
 
 The pageviews counts were filtered to only show traffic from users.
 
+The included one CSV and five JSON files exist to help with repoducabliity; the notebook will generate these files when run using the wikipedia api.
+
+There is a png of the visualization to show expected output of the notebook.
+
 The API set up code in the notebook is borrowed with permission from a notebook: (https://public.paws.wmcloud.org/User:Jtmorgan/data512_a1_example.ipynb) by Brandon Martin-Anderson (bmander@uw.edu)
 
-The ipython notebook uses python 3 and the folowing python packages:
+The ipython notebook uses python 3 (https://www.python.org/download/releases/3.0/) and the folowing python packages:
   - json 3.9 (https://docs.python.org/3/library/json.html)
   - requests 2.24.0 (https://pypi.org/project/requests/)
   - pandas 1.1.3 (https://pandas.pydata.org/)
@@ -15,10 +19,6 @@ The ipython notebook uses python 3 and the folowing python packages:
   - matplotlib 3.3.1 (https://matplotlib.org/)
 
 All other work is original
-
-The included one CSV and five JSON files exist to help with repoducabliity; the notebook will generate these files when run using the wikipedia api.
-
-There is a png of the visualization to show expected output of the notebook.
 
 Send questions about the notebook to jm888@uw.edu
 
