@@ -1,7 +1,7 @@
 # data-512
 ## UW data-512 Autumn 2020 coursework
 
-This notebook(data-512-a1) contains instructions to produce a visualiztion showing english wikipedia traffic by pageview count and legacy pagecount data gathered from the wikipedia api (https://wikimedia.org/api/rest_v1/#/Legacy_data/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end). 
+This notebook(data-512-a1.ipynb) contains instructions to produce a visualiztion showing english wikipedia traffic by pageview count and legacy pagecount data gathered from the wikipedia api (https://wikimedia.org/api/rest_v1/#/Legacy_data/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end). 
 
 The pageviews counts were filtered to only show traffic from users.
 
