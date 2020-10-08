@@ -20,6 +20,6 @@ The ipython notebook uses python 3 (https://www.python.org/download/releases/3.0
 
 All other work is original
 
-Send questions about the notebook to jm888@uw.edu
+Please send questions about this project to John Mahoney jm888@uw.edu
 
 Enjoy!
