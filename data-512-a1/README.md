@@ -7,6 +7,13 @@ The pageviews counts were filtered to only show traffic from users.
 
 The API set up code in the notebook is borrowed with permission from a notebook: (https://public.paws.wmcloud.org/User:Jtmorgan/data512_a1_example.ipynb) by Brandon Martin-Anderson (bmander@uw.edu)
 
+The ipython notebook uses python 3 and the folowing python packages:
+  - json 3.9 (https://docs.python.org/3/library/json.html)
+  - requests 2.24.0 (https://pypi.org/project/requests/)
+  - pandas 1.1.3 (https://pandas.pydata.org/)
+  - numpy 1.19.0 (https://numpy.org/)
+  - matplotlib 3.3.1 (https://matplotlib.org/)
+
 All other work is original
 
 The included one CSV and five JSON files exist to help with repoducabliity; the notebook will generate these files when run using the wikipedia api.
