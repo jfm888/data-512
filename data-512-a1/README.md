@@ -9,7 +9,7 @@ The API set up code in the notebook is borrowed with permission from a notebook:
 
 All other work is original
 
-The CSV and JSON files exist to help with repoducabliity; the notebook will generate these files when run.
+The included one CSV and five JSON files exist to help with repoducabliity; the notebook will generate these files when run.
 
 There is a png of the visualization to show expected output of the notebook.
 
