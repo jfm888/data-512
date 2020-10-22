@@ -18,7 +18,7 @@ The question(s) I asked is: Is the toxicity corpus age-ballanced with respect to
 
 We see that younger annotaters are less likley than older annotaters to rate a comment as toxic.
 
-We have also seen that the corpus is biased towards younger annotaters, which taken together with the above information would suggest the corpus toxicity is underrated do to the age bias. Furthermore, any models trianed on this corpus may underrepresent how toxic a comment is to the larger population.
+We have also seen in ur ipythion notebook analysis that the corpus is biased towards younger annotaters, which taken together with the above information would suggest the corpus toxicity is underrated do to the age bias. Furthermore, any models trianed on this corpus may underrepresent how toxic a comment is to the larger population.
 
 #### Exploration of Aggression Corpus
 
@@ -30,7 +30,7 @@ My question(s): is the Aggression corpus gender balanced, and if not is it relat
 
 In the above plot we see that men annotaters tend to give lower aggressiveness scores than women annotaters which seems to represent a gender bias. The score of zero was omitted for clarity
 
-We also saw that there are about twice as many men annotaters as women annotaters which compounds the bias.  It seems like the aggressiveness of the comments in the corpus is underrated due to the majority of men annotaters. If this is not corrected then any models trained on this corpus may also underrate how aggressive a comment is to a larger population.
+Our ipythion notebook analysis shows that there are about twice as many men annotaters as women annotaters which compounds the bias.  It seems like the aggressiveness of the comments in the corpus is underrated due to the majority of men annotaters. If this is not corrected then any models trained on this corpus may also underrate how aggressive a comment is to a larger population.
 
 #### Implications
 
