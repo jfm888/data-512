@@ -14,7 +14,7 @@ This repository contains files for recreating exploratory data analysis of a cor
 There is often a generational component in how people speak and this could affect whether someone perceives a comment as toxic or not.
 The question(s) I asked is: Is the toxicity corpus age-ballanced with respect to the population, and if not is there some relation between age and liklihood to rate a comment as toxic? This could indicate an age bias.
 
-![Toxicity vs Age](https://octodex.github.com/images/yaktocat.png)
+![Toxicity vs Age](https://github.com/jfm888/data-512/blob/main/data-512-a2/data512_a2_approximate_annotator_age_vs_rate_marking_a_comment_as_toxic.png)
 
 We see that younger annotaters are less likley than older annotaters to rate a comment as toxic.
 
@@ -26,7 +26,7 @@ In many cultures men are seen to be generally more aggressive than women.
 
 My question(s): is the Aggression corpus gender balanced, and if not is it related to how aggressive comments are scored? This could indicate a gender bias.
 
-![Aggression vs Gender](https://octodex.github.com/images/yaktocat.png)
+![Aggression vs Gender](https://github.com/jfm888/data-512/blob/main/data-512-a2/data512_a2_percent_of_annotater_scores_by_score_and_gender.png)
 
 In the above plot we see that men annotaters tend to give lower aggressiveness scores than women annotaters which seems to represent a gender bias. The score of zero was omitted for clarity
 
