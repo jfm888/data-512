@@ -48,6 +48,8 @@ The actual data figshare datasets are not in the repository as they are too big 
 
 The included CSV files are to help with recreating the png images seen below and in the notebook (also in the repo)
 
+A US Census 2010 report was used to compare with toxicity corpus age distrobuitions; this is also included in the repo
+
 #### Data Schema
 
 Data description and schema was taken from [WikiMedia](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release)
