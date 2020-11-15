@@ -63,9 +63,9 @@ References:
 
 1. Anderson, Sam. “What I Learned Inside the N.B.A. Bubble.” The New York Times, The New York Times, 30 Sept. 2020, www.nytimes.com/2020/09/30/magazine/nba-bubble.html.
 
-2. Spichak, Simon. “The Basketball in the Bubble.” Medium, Towards Data Science, 29 July 2020, towardsdatascience.com/the-basketball-in-the-bubble-cfec7976574b.
+2. Spichak, Simon. “The Basketball in the Bubble.” Medium, Towards Data Science, 29 July 2020, www.towardsdatascience.com/the-basketball-in-the-bubble-cfec7976574b.
 
-3. Dubin, Jared. “Who's Who In The NBA Bubble: The Teams Just Along For The Ride.” FiveThirtyEight, FiveThirtyEight, 20 July 2020, fivethirtyeight.com/features/whos-who-in-the-nba-bubble-the-teams-just-along-for-the-ride/.
+3. Dubin, Jared. “Who's Who In The NBA Bubble: The Teams Just Along For The Ride.” FiveThirtyEight, FiveThirtyEight, 20 July 2020, www.fivethirtyeight.com/features/whos-who-in-the-nba-bubble-the-teams-just-along-for-the-ride/.
 
 ### Methodology
 
